@@ -1,4 +1,103 @@
-# MahaMove AI 🚦
+## 🌐 Portfolio
+
+**Portfolio:** https://raushik-portfolio.vercel.app/
+
+---
+
+# 🎟️ PulseSeat
+
+### High-Throughput Event Ticket Booking & Management Platform
+
+PulseSeat is a full-stack event ticket booking platform designed to handle **high-concurrency reservations, real-time seat availability, and traffic spikes** during high-demand events.
+
+The platform was tested with **5,000+ Virtual Users (VUs)** and was **selected for the update phase**, with a focus on improving scalability, performance, and reliability.
+
+---
+
+## ✨ Features
+
+- 🎟️ Event discovery and browsing
+- 💺 Real-time seat availability
+- ⚡ High-throughput ticket booking engine
+- 🔒 Concurrent booking protection
+- 🚫 Double-booking prevention
+- 🧾 Booking and ticket management
+- 📊 Event and booking management
+- 🌐 RESTful API architecture
+- 📱 Responsive and modern UI
+
+---
+
+## 🚀 High-Throughput Booking Engine
+
+PulseSeat focuses on handling multiple users attempting to reserve limited seats simultaneously.
+
+Key considerations include:
+
+- Concurrent seat reservation handling
+- Double-booking prevention
+- Database consistency
+- Efficient booking workflows
+- Reliable seat availability management
+- Handling high traffic during peak demand
+
+The system was tested with **5,000+ Virtual Users (VUs)** to evaluate its performance under concurrent traffic.
+
+---
+
+## 📈 Performance & Scalability
+
+- **5,000+ Virtual Users tested**
+- Load-tested APIs under concurrent requests
+- Evaluated high-demand booking scenarios
+- Focused on maintaining consistent seat availability
+- Designed with scalability and production-readiness in mind
+- Identified and optimized potential backend bottlenecks
+
+---
+
+## 🏆 Selection
+
+PulseSeat was **selected for the update phase**, allowing further improvements to its performance, scalability, and reliability.
+
+The project focuses on solving real-world challenges involved in building a **high-throughput ticket booking system** rather than a conventional CRUD-based event application.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| Frontend | React, JavaScript, Tailwind CSS |
+| Backend | Node.js, Express.js |
+| Database | PostgreSQL |
+| Authentication | JWT |
+| API Testing | Postman |
+| Load Testing | 5,000+ Virtual Users |
+| Deployment | Vercel, Render |
+
+---
+
+## 📌 Key Highlights
+
+- 🚀 High-throughput event ticket booking platform
+- 👥 Tested with **5,000+ Virtual Users**
+- 💺 Designed for concurrent seat booking
+- 🔒 Double-booking prevention
+- ⚡ Performance-focused backend architecture
+- 📈 Scalability and load testing
+- 🏆 Selected for the update phase
+- 🌐 Full-stack production deployment
+
+---
+
+## 🌐 Live Demo
+
+**Demo:** https://pulseseat.vercel.app/
+
+---
+
+# 🚦 MahaMove AI
 
 ### AI-Powered Transportation & Mobility Management Platform for Mahakumbh
 
@@ -30,29 +129,6 @@ MahaMove AI is a smart mobility management platform developed for the **Mahakumb
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/Raushik-7/mahamove-ai.git
-cd mahamove-ai
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Run Development Server
-
-```bash
-npm run dev
-```
-
----
-
 ## 📌 Key Highlights
 
 - AI-powered route optimization
@@ -65,42 +141,22 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo
-
-**Demo:** https://mahamove-ai.vercel.app/
-
----
-
 ## 🏆 Hackathon Project
 
 Developed for the **Transportation & Mobility Management Challenge**, demonstrating how AI-driven analytics and modern web technologies can improve transportation planning, crowd management, and commuter guidance during large-scale events like Mahakumbh.
 
 ---
----
 
+# 👨‍💻 About the Developer
 
+### Raushik Gupta
 
-# DiscoverYourHome 🏠
-A web-based application to predict house prices across India using Machine Learning models.  
-Built with Streamlit, Flask, Firebase, and Google Maps API for an interactive and data-driven experience.
-## ✨ Features
-- Predict house prices using Random Forest ML model.
-- Data preprocessing with Pandas and NumPy.
-- Similarity-based recommendation system with Scikit-learn.
-- Streamlit UI for interactive predictions.
-- Flask backend with Firebase database.
-- Google Maps API integration for location visualization.
-- ## 🛠 Tech Stack
-- **Languages:** Python, HTML, CSS, JavaScript
-- **Libraries:** Pandas, NumPy, Scikit-learn
-- **Frontend:** Streamlit
-- **Backend:** Flask
-- **Database:** Firebase
-- **API Integration:** Google Maps
+**B.Tech Computer Science Engineering @ VIT Bhopal University**
 
----
+Full-Stack / MERN Developer focused on building scalable web applications, high-performance backend systems, and AI-powered products.
 
+### 🔗 Connect With Me
 
-## 👨‍💻 Developer
-
-**Raushik Gupta**
+- **Portfolio:** https://raushik-portfolio.vercel.app/
+- **GitHub:** https://github.com/Raushik-7
+- **LinkedIn:** https://www.linkedin.com/in/raushikgupta06/

@@ -6,7 +6,7 @@
 
 # 🎟️ PulseSeat
 
-### High-Throughput Event Ticket Booking & Management Platform
+### High-Throughput Event Ticket Booking Engine
 
 PulseSeat is a full-stack event ticket booking platform designed to handle **high-concurrency reservations, real-time seat availability, and traffic spikes** during high-demand events.
 
